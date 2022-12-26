@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning React.JS, Tailwind, Node.JS...
 - 🌱 Recently learned Tailwind...
 - 💞️ I’m always happy to help you
-- 📫 How to reach me - Upwork - https://www.upwork.com/freelancers/nirmalsinghoo7 ...
+- 📫 How to reach me - Upwork - https://www.upwork.com/freelancers/nirmalsinghoo7 
+                     - LinkedIn - https://www.linkedin.com/in/nirmal-singh-swisscodes/
 
 <!---
 nirmalsinghoo7/nirmalsinghoo7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
